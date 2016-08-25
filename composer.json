@@ -26,14 +26,14 @@
     "require": {
         "php": "~5.5|~7.0",
         
-        "zendframework/zend-mvc": "~2.7",
+        "zendframework/zend-mvc": "~2.7  || ~3.0",
         "zendframework/zend-modulemanager": "~2.5",
         "zendframework/zend-session": "~2.5",
         "zendframework/zend-view": "~2.5",
         "zendframework/zend-http": "~2.5",
         "zendframework/zend-paginator": "~2.5",
         "zendframework/zend-cache": "~2.5",
-        "zendframework/zend-servicemanager": "~2.7"
+        "zendframework/zend-servicemanager": "~2.7 || ~3.1"
     },
     
     "require-dev": {
